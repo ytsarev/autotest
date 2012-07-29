@@ -65,7 +65,7 @@
     <ask-list config:type="list"/>
     <mode>
       <confirm config:type="boolean">false</confirm>
-      <halt config:type="boolean">true</halt>
+      <final_halt config:type="boolean">true</final_halt>
     </mode>
     <mouse>
       <id>none</id>
